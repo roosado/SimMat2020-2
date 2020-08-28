@@ -3,7 +3,7 @@ En este repositorio se encuentran las notas para el curso de simulación matemá
 
 Este curso consiste de tres módulos. 
 
-`Módulo 1.` **Optimización**
+###`Módulo 1.` **Optimización**
 > Se aplicará una evaluación (**exámen**) y se evaluará una presentación de **proyecto.**
    1. ¿Qué es una simulación? - Introducción al lenguaje de trabajo (Python) e instalación de software
    2. Gestión de proyectos: `git`, `GitHub`, `GitKraken`
@@ -14,7 +14,7 @@ Este curso consiste de tres módulos.
    7. Ajuste de curvas
    8. Clasificación
 
-`Módulo 2.` **Construcción de modelos de simulación (Montecarlo)**
+###`Módulo 2.` **Construcción de modelos de simulación (Montecarlo)**
 > Se aplicará una evaluación (**exámen**) y se evaluará una presentación de **proyecto.**
    1. Generación de números aleatorios
    2. Caminata aleatoria
@@ -23,7 +23,7 @@ Este curso consiste de tres módulos.
    5. Bajar y organizar datos de Yahoo Finance (Pandas)
    6. Probabilidad precio-umbral
    
-`Módulo 3.`  **Ecuaciones diferenciales**
+###`Módulo 3.`  **Ecuaciones diferenciales**
 > Se aplicará una evaluación (**exámen**) y se evaluará una presentación de **proyecto.**
    1. Introducción a ecuaciones diferenciales
    2. ¿Cómo se mueve un péndulo?
